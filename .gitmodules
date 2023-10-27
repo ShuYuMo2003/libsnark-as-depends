@@ -1,0 +1,3 @@
+[submodule "depends/libsnark"]
+	path = depends/libsnark
+	url = https://github.com/ShuYuMo2003/libsnark-win.git
